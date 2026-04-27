@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**oliwiawojcicka/oliwiawojcicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oliwia. I'm a third-year **Data Engineering and Analysis** student at the **Warsaw University of Technology**  
+(Faculty of Mathematics and Information Science). I enjoy **programming**, **data science**, **data visualization**, **statistics** and **machine learning**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌼 About Me
+
+- I learn how to manage data and solve complex problems
+- I enjoy connecting theory with real-world applications
+- I like working with data, creating visualizations and building practical solutions
+- Currently expanding my knowledge in machine learning and deep learning
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`R` • `Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript`
+
+**Libraries & Frameworks:**  
+`pandas` • `NumPy` • `scikit-learn` • `matplotlib` • `Django`
+
+---
+
+## 🚀 Projects
+
+Here are some of my projects:
+
+- [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
+- [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
+- [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
+- [Introduction to AI](https://github.com/oliwiawojcicka/WstepDoSztuczejInteligencji/tree/main)
+- [Data Visualization](https://github.com/bartkowiakdaria/DataVisualization)
+
+---
+
+## 🌟 Let’s Connect!
+
+📧 Email: owjcickak@gmail.com
