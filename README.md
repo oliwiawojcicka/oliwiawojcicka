@@ -39,4 +39,4 @@ Here are some of my projects:
 
 ## 🌟 Let’s Connect!
 
-📧 Email: owjcickak@gmail.com
+📧 Email: owjcicka@gmail.com
