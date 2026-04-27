@@ -32,7 +32,7 @@ Here are some of my projects:
 - [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
 - [Introduction to AI](https://github.com/oliwiawojcicka/WstepDoSztuczejInteligencji/tree/main)
-- [Data Visualization](https://github.com/bartkowiakdaria/DataVisualization)
+- [Data Visualization](https://github.com/oliwiawojcicka/DataVisualization/tree/main)
 
 ---
 
