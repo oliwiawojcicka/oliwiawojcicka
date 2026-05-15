@@ -27,12 +27,12 @@ I'm Oliwia. I'm a third-year **Data Engineering and Analysis** student at the **
 ## 🚀 Projects
 
 Here are some of my projects:
-
+- [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
 - [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
 - [Data Visualization](https://github.com/oliwiawojcicka/DataVisualization/tree/main)
 - [Introduction to AI](https://github.com/oliwiawojcicka/WstepDoSztuczejInteligencji/tree/main)
-- [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
+  
 
 
 ---
