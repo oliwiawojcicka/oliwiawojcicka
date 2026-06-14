@@ -27,8 +27,9 @@ I'm Oliwia. I'm a third-year **Data Engineering and Analysis** student at the **
 ## 🚀 Projects
 
 Here are some of my projects:
-- [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
 - [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
+- [Data Warehouses Project](https://github.com/oliwiawojcicka/data-warehouses-project)
+- [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
 - [Data Visualization](https://github.com/oliwiawojcicka/DataVisualization/tree/main)
 - [Local LLM Infrastructure](https://github.com/oliwiawojcicka/local-llm-infrastructure)
