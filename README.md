@@ -31,6 +31,7 @@ Here are some of my projects:
 - [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
 - [Java Programming](https://github.com/bartkowiakdaria/JavaProgramming)
 - [Data Visualization](https://github.com/oliwiawojcicka/DataVisualization/tree/main)
+- [Local LLM Infrastructure]
 - [Introduction to AI](https://github.com/oliwiawojcicka/WstepDoSztuczejInteligencji/tree/main)
 - [AndroidStudio Project](https://github.com/oliwiawojcicka/AndroidStudio-Project)
 - [Data Science applied in Biomedicine](https://github.com/oliwiawojcicka/DataScience-in-biomedicine)
