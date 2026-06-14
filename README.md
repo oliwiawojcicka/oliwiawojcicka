@@ -36,6 +36,7 @@ Here are some of my projects:
 - [AndroidStudio Project](https://github.com/oliwiawojcicka/AndroidStudio-Project)
 - [Data Science applied in Biomedicine](https://github.com/oliwiawojcicka/DataScience-in-biomedicine)
 - [Web Project](https://github.com/oliwiawojcicka/Web-Project)
+- [Mobile App Design](https://github.com/oliwiawojcicka/mobile-app-design)
   
 
 
