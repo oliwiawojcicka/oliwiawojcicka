@@ -1,16 +1,18 @@
 # 👋 Hi there!
 
-I'm Oliwia. I'm a third-year **Data Engineering and Analysis** student at the **Warsaw University of Technology**  
-(Faculty of Mathematics and Information Science). I enjoy **programming**, **data science**, **data visualization**, **statistics** and **machine learning**.
+I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the **Warsaw University of Technology**  
+(Faculty of Mathematics and Information Science). I am particularly interested in **machine learning**, **statistics**, **programming**, **data science** and **data visualization**.
 
 ---
 
 ## 🌼 About Me
 
-- I learn how to manage data and solve complex problems
-- I enjoy connecting theory with real-world applications
-- I like working with data, creating visualizations and building practical solutions
-- Currently expanding my knowledge in machine learning and deep learning
+- I am passionate about machine learning, statistics and statistical methods in R
+- I completed multiple univeristy courses and projects in machine learning and data analysis
+- I enjoy programming in Python, R, Java and SQL
+- I am interested in Java application development and building prctical software solutions
+- I like creating clear and informative data visualizations that tansform complex datasets into understandable insights
+- Always eager to expand my knowledge and develop new skills in data science 
 
 ---
 
