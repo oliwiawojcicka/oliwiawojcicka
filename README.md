@@ -10,7 +10,7 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 - I am passionate about machine learning, statistics and statistical methods
 - I completed multiple univeristy courses and projects in machine learning and data analysis
 - I enjoy programming in Python, R, Java and SQL
-- I am interested in Java application development and building prctical software solutions
+- I am interested in Java application development and building practical software solutions
 - I like creating clear and informative data visualizations that tansform complex datasets into understandable insights
 - Always eager to expand my knowledge and develop new skills in data science 
 
