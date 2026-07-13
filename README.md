@@ -38,6 +38,7 @@ Here are some of my projects:
 - [Data Science applied in Biomedicine](https://github.com/oliwiawojcicka/DataScience-in-biomedicine)
 - [Web Project](https://github.com/oliwiawojcicka/Web-Project)
 - [Mobile App Design](https://github.com/oliwiawojcicka/mobile-app-design)
+- [Statistics](https://github.com/oliwiawojcicka/Statistics)
   
 
 
