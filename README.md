@@ -22,7 +22,7 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 `R` • `Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript`
 
 **Libraries & Frameworks:**  
-`pandas` • `NumPy` • `scikit-learn` • `scikit-optimize` • `matplotlib` • `seaborn` • `Jupyter Notebook` • `Django` • `MySQL` • `Git` • `Docker`
+`pandas` • `NumPy` • `scikit-learn` • `scikit-optimize` • `matplotlib` • `seaborn` • `Jupyter Notebook` • `Django` • `MySQL` • `Git` • `Docker` • `PowerBI`
 
 ---
 
@@ -40,7 +40,6 @@ Here are some of my projects:
 - [Data Science applied in Biomedicine](https://github.com/oliwiawojcicka/DataScience-in-biomedicine)
 - [Web Project](https://github.com/oliwiawojcicka/Web-Project)
 - [Mobile App Design](https://github.com/oliwiawojcicka/mobile-app-design)
-- [Statistics](https://github.com/oliwiawojcicka/Statistics)
   
 
 
