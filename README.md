@@ -22,7 +22,7 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 `R` • `Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript`
 
 **Libraries & Frameworks:**  
-`pandas` • `NumPy` • `scikit-learn` • `scikit-optimize` • `matplotlib` • `seaborn` • `Jupyter Notebook` • `Django` • `MySQL` • `Git` • `Docker` • `PowerBI`
+`pandas` • `NumPy` • `scikit-learn` • `scikit-optimize` • `matplotlib` • `Jupyter Notebook` • `Django` • `MySQL` • `Git` • `Docker` • `PowerBI`
 
 ---
 
