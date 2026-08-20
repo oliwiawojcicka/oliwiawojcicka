@@ -18,12 +18,14 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**  
-`R` • `Python` • `Java` • `SQL` • `HTML` • `CSS` • `JavaScript`
+Programming & Databases:
+R • Python • Java • SQL • MySQL
 
-**Libraries & Frameworks:**  
-`Rest API` • `PowerBI` • `Shiny` • `Git` • `Docker` • `Django` • `MySQL` • `scikit-learn` • `scikit-optimize` • `pandas` • `NumPy` • `matplotlib` 
+Data Analysis & Visualization:
+Excel • Power BI • R Shiny • pandas • NumPy • matplotlib • scikit-learn • scikit-optimize
 
+Tools & Technologies:
+REST API • Git • Docker • Django • HTML • CSS • JavaScript • PowerPoint
 ---
 
 ## 🚀 Projects
