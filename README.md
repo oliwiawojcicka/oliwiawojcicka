@@ -28,7 +28,7 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 `Excel` • `Power BI` • `R Shiny`
 
 **Tools & Technologies:**  
-`Git` • `GitHub` • `Docker` • `REST API` • `Django` • `MySQL` • `Android Studio` • `PowerPoint`
+`Git` • `GitHub` • `Docker` • `REST API` • `Django` • `MySQL` • `Android Studio` • `Jira` • `Confluence` • `PowerPoint`
 
 ---
 
