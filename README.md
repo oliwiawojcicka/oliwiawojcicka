@@ -35,6 +35,7 @@ I'm Oliwia. I'm a fourth-year **Data Engineering and Analysis** student at the *
 ## 🚀 Projects
 
 Here are some of my projects:
+- [R Shiny Data Visualization | #BI_NGO, Fundacja Gajusz](https://github.com/oliwiawojcicka/BI_NGO-Data-Visualization-for-Fundacja-Gajusz)
 - [Automated Machine Learning](https://github.com/bartkowiakdaria/AutoML)
 - [Data Warehouses Project](https://github.com/oliwiawojcicka/data-warehouses-project)
 - [Machine Learning](https://github.com/oliwiawojcicka/MachineLearning)
